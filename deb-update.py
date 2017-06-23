@@ -1,13 +1,11 @@
 #!/usr/bin/python
 
-#A simple Update/Upgrade python script for Debian.
-
 import os
 import sys, traceback
 import time
 
 print ""
-print "Dev: Nathan Smith"
+print "A Simple Update/Upgrade Python Script For Debian"
 print ""
 
 #Options
